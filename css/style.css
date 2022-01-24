@@ -10,6 +10,9 @@ body{
 .text-navy-custom{
     color: #231D4F;
 }
+.background-blue-custom{
+    background-color: #3F87F5;
+}
 .button-explore-custom{
     background-color: #3F87F5;
 }
@@ -20,6 +23,11 @@ body{
     background-color: #f496d21f;
     color: #3F87F5;
     font-weight: 700;
+}
+.button-highlight-custom{
+    background-color: white;
+    color: #3F87F5;
+    font-weight: 600;
 }
 .card-highlight-custom{
     background-color: #3F87F5;
