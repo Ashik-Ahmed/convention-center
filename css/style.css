@@ -5,7 +5,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .carousel-photo{
-    height: 400px;
+    height: 550px;
 }
 .text-navy-custom{
     color: #231D4F;
@@ -21,6 +21,7 @@ body{
 .card-highlight-custom{
     background-color: #3F87F5;
     border-radius: 20px;
+    box-shadow:0px 10px 20px #3F87F5; 
     /* background-image: url(/images/Fill-bg.png);
     background-position: right;
     background-repeat: no-repeat; */
