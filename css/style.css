@@ -1,0 +1,31 @@
+/* Google Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel-photo{
+    height: 400px;
+}
+.text-navy-custom{
+    color: #231D4F;
+}
+.check-icon{
+    color: #231D4F;
+}
+.button-choose-custom{
+    background-color: #f496d21f;
+    color: #3F87F5;
+    font-weight: 700;
+}
+.card-highlight-custom{
+    background-color: #3F87F5;
+    border-radius: 20px;
+    /* background-image: url(/images/Fill-bg.png);
+    background-position: right;
+    background-repeat: no-repeat; */
+}
+.footer-custom{
+    background-color: #0B0D17;
+    height: 200px;
+}
